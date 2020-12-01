@@ -1,0 +1,25 @@
+{
+  "name": "terminal-pokemon-game",
+  "version": "1.0.0",
+  "description": "Terminal pokemon battle game, pair-programmed and built in Javascript using OOP with full use of TDD / Jest testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicehorsey/terminal-pokemon-game.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Alice Horsey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicehorsey/terminal-pokemon-game/issues"
+  },
+  "homepage": "https://github.com/alicehorsey/terminal-pokemon-game#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
