@@ -4,7 +4,7 @@
 This project was the culmination of my Javascript fundamentals and Object-oriented Programming block on the Northcoders Coding Bootcamp. A two-day pair-programming sprint, our task was to implement a Pokemon battle game which could be played in the terminal using OOP and full TDD.
 
 ## Set up
-In order the see an example of the game being played out please run `npm install` to install the required dev dependencies.
+In order to see an example of the game being played out please run `npm install` to install the required dev dependencies.
 
 Once Jest has been installed you can run `npm run test` which will log a full version of an instance of the Pokemon battle to your console!
 
